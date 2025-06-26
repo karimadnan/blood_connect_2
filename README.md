@@ -1,6 +1,6 @@
 ## Project info
 
-**URL**: [https://lovable.dev/projects/91506016-a994-4ec5-8dbf-cacf81aab7e6](https://blood-connect-2.vercel.app/)
+**URL**: https://blood-connect-2.vercel.app/
 
 **Use your preferred IDE**
 
